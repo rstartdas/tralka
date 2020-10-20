@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
-[Image](https://rstartdas.github.io/img/rstart.logo.pq2.png)
+[Image]()
+
+[![Alternate Text]({image-url})]({https://rstartdas.github.io/img/rstart.logo.pq2.png} "Link Title")
 
 You can use the [editor on GitHub](https://github.com/rstartdas/tralka/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
