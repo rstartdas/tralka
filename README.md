@@ -7,6 +7,7 @@
 
 Resonancias poéticas sobre la naturaleza fractal del trueno 
 generadas por medio de la programación computacional en tiempo real. 
+con TouchDesigner + Supercollider
 
 https://rstartdas.github.io/tralka/
 
