@@ -1,4 +1,6 @@
-# Tralka ## trabajo en proceso
+# Tralka
+
+(Trabajo en proceso)
 
 [![Alt text](https://github.com/rstartdas/tralka/blob/gh-pages/img/tralka_estudio.jpg)](https://rstartdas.github.io/tralka/)
 
